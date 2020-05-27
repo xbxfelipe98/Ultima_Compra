@@ -1,0 +1,30 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="8"/>
+
+  <LastIsnFolder val="1"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+  
+<DataObject PhysicalName="SPAR_PEDIDOS_OC" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="SPAR_PEDIDOS_OC" offset="213" length="5802"/> 
+<DataObject PhysicalName="SPAR_RP_PEDIDOS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" name="SPAR_RP_PEDIDOS" offset="6016" length="3355"/> 
+<DataObject PhysicalName="SPAR_CONTROLE_TEMP%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" name="SPAR_CONTROLE_TEMP%USUARIO%" offset="9372" length="3773"/> 
+<DataObject PhysicalName="SPAR_PEDIDOS_EXPEDICAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="4" name="SPAR_PEDIDOS_EXPEDICAO" offset="13146" length="6416"/> 
+<DataObject PhysicalName="SPAR_PEDIDOS_EX_CAPA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="5" name="SPAR_PEDIDOS_EX_CAPA" offset="19563" length="8650"/> 
+<DataObject PhysicalName="SPAR_PEDIDOS_EX_FATURADOS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" name="SPAR_PEDIDOS_EX_FATURADOS" offset="28214" length="2130"/> 
+<DataObject PhysicalName="SPAR_COMPLEMENTO_ENTREGA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" name="SPAR_COMPLEMENTO_ENTREGA" offset="30345" length="4948"/> 
+<DataObject PhysicalName="SPAR_TABELA_FATOR" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="8" name="SPAR_TABELA_FATOR" offset="35294" length="2286"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="3081389617334927"/>  </Application>
